@@ -2,7 +2,9 @@
 
    **1.** Collecting  Telecom data from the Company's Database, including information such as Total voice calls, Total day calls, Total day charge ,Total eve minutes, Total eve calls, Total eve charge, Total night 
           minutes, International Plan etc
+          
    **2.** Cleaning and preprocessing the collected data, handling outliers, missing values, and data inconsistencies
+   
    **3.** Creating dependancies of various variable on the churn rate of the customer
 
     
